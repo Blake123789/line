@@ -1,8 +1,9 @@
-guicorn==22.0.0
+gunicorn
 Flask==3.0.3
 langchain-core==0.3.28
 langchain-google-genai==2.0.7
 line-bot-sdk==3.17.1
 google-generativeai==0.8.3
+
 
 
