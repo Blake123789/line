@@ -12,8 +12,6 @@ google-auth-httplib2== 0.2.0
 googleapis-common-protos==1.66.0
 requests==2.32.3
 configparser
-tempfile
-glob
 
 
 
