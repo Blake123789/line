@@ -3,7 +3,6 @@ Flask==3.1.1
 langchain-core==0.3.28
 langchain-google-genai==2.0.7
 line-bot-sdk==3.17.1
-google-generativeai==0.8.3
 google-ai-generativelanguage==0.6.10
 google-api-core==2.24.0
 google-api-python-client==2.157.0
@@ -12,6 +11,7 @@ google-auth-httplib2== 0.2.0
 googleapis-common-protos==1.66.0
 requests==2.32.3
 configparser
+
 
 
 
