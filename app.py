@@ -175,10 +175,9 @@ def gemini_ask(user_input):
     result = llm.invoke([human_messages])
     #print("Q: " + user_input)
     #print("A: " + result.content)
-    return result.content
+    return result.contentpip
 
 
 
 if __name__ == "__main__":
-
-   app.run(host='0.0.0.0',port=5001)
+    app.run(host='0.0.0.0',port=10000)
